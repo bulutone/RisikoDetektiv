@@ -13,7 +13,7 @@ Der Kanalinhalt wird regelmäßig aktualisiert, und Verbesserungen werden basier
 
 ## Verwendung
 
-1. Abonnieren Sie den Kanal [über Telegram](https://t.me/RisikoDetektivKanal).
+1. Abonnieren Sie den Kanal [über Telegram](https://t.me/RisikoDetektiv).
 2. Verfolgen Sie aktuelle Informationen zur Cybersicherheit.
 3. Informieren Sie sich über Sicherheitsbedrohungen durch Beiträge im Kanal.
 
