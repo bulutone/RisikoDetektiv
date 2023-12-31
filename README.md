@@ -1,3 +1,6 @@
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/bulutone/RisikoDetektiv/main/cover.png)
+
+
 # RisikoDetektiv Telegram Kanal
 
 RisikoDetektiv ist ein Telegram-Kanal, der erstellt wurde, um Cybersecurity-Bedrohungen zu verfolgen und Benutzer darüber zu informieren. Der Kanal verwendet Metadaten von Open-Source-Plattformen, um Echtzeitinformationen über Cybersecurity-Angriffe bereitzustellen.
