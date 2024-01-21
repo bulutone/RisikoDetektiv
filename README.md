@@ -28,6 +28,7 @@ Der Kanalinhalt wird regelmäßig aktualisiert, und Verbesserungen werden basier
 
 1.  Julien Mousqueton [Github Projeckte -  Ransomwarelive](https://github.com/JMousqueton/ransomware.live).
 2.  Josh Highet [Github Projeckte -  Ransomwarewatch](https://github.com/joshhighet/ransomwatch).
+3.  Open-Source-Nachrichtenseiten
 ---
 
 **Hinweis:** Der Kanalinhalt kann Informationen Open-Source-Datenquellen verwenden. Die Genauigkeit dieser Informationen kann jedoch nicht garantiert werden, und Benutzer sollten ihre eigenen Bewertungen vornehmen.
